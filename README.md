@@ -1,2 +1,2 @@
 # IPM-Viteazul-Straseni
-site gimnaziului creat la cursurile Telwill.
+site gimnaziului creat la cursurile Tekwill.
